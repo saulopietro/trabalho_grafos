@@ -19,7 +19,7 @@ Dado um conjunto de cidades e as distâncias entre elas, o sistema deve:
 ---
 
 ## 🛠️ Linguagem e Versão
-- **Java 17+** (funciona também em Java 11)
+- **Java 25+** 
   
 ---
 
